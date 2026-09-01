@@ -1,0 +1,9 @@
+### Запрос на добавление нового фильма
+POST http://localhost:8080/movies/add
+Content-Type: application/json
+
+{
+  "title": "Interstellar",
+  "year": 2014,
+  "rating": 8.6
+}
