@@ -27,6 +27,7 @@ A robust back-end RESTful API for managing a movie database. Built with Java and
 1. Clone the repository:
    ```bash
    git clone https://github.com/iliyamedvediev/movies-api.git
+   ```
 2. Update Maven dependencies and build the project.
 3. Run the MoviesApplication.java main class. Flyway will automatically create the database and movie table on startup.
 
