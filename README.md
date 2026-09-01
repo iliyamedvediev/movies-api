@@ -1,9 +1,9 @@
-```markdown
-# 🎬 Movie Database REST API
+
+#  Movie Database REST API
 
 A robust back-end RESTful API for managing a movie database. Built with Java and Spring Boot, this project features automated web scraping, role-based security, and database schema versioning.
 
-## 🚀 Key Features
+##  Key Features
 
 * **Automated Web Scraping:** Programmatically extracts movie data (titles, release years, ratings) from external sources using Jsoup.
 * **Role-Based Security:** Secured endpoints using Spring Security (Basic Authentication). Read access is public, while data modification and scraping operations are restricted to administrators.
@@ -11,7 +11,7 @@ A robust back-end RESTful API for managing a movie database. Built with Java and
 * **Pagination & Search:** Efficiently handles large datasets with Spring Data JPA pagination and provides endpoints for filtering by title or minimum rating.
 * **Interactive Documentation:** Automatically generates a Swagger UI (OpenAPI) dashboard for seamless API testing and exploration.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Language:** Java 26
 * **Framework:** Spring Boot 4.1.0
@@ -22,7 +22,7 @@ A robust back-end RESTful API for managing a movie database. Built with Java and
 * **Security:** Spring Security
 * **API Documentation:** Springdoc OpenAPI (Swagger)
 
-## ⚙️ Getting Started
+##  Getting Started
 
 1. Clone the repository:
    ```bash
